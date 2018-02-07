@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/meguia.iml" filepath="$PROJECT_DIR$/meguia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/meguia.core.iml" filepath="$PROJECT_DIR$/core/meguia.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.launcher/meguia.it.launcher.iml" filepath="$PROJECT_DIR$/it.launcher/meguia.it.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.tests/meguia.it.tests.iml" filepath="$PROJECT_DIR$/it.tests/meguia.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/meguia.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/meguia.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.content/meguia.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/meguia.ui.content.iml" />
+    </modules>
+  </component>
+</project>

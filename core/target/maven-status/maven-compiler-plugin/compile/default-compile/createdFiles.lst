@@ -1,0 +1,9 @@
+meguia\core\package-info.class
+meguia\core\schedulers\SimpleScheduledTask.class
+meguia\core\servlets\SimpleServlet.class
+meguia\core\schedulers\SimpleScheduledTask$Config.class
+meguia\core\filters\LoggingFilter.class
+meguia\core\models\UserGrid.class
+meguia\core\models\UserGrid$1.class
+meguia\core\listeners\SimpleResourceListener.class
+meguia\core\models\HelloWorldModel.class

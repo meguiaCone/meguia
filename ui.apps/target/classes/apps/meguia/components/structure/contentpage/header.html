@@ -1,0 +1,12 @@
+<div class="navbar navbar-inverse navbar-fixed-top hidden-xs">
+    <div class="container-fluid">
+        <nav style="color: white;" >Language Navigation</nav>
+        <ul class="nav navbar-nav navbar-right" style="color: white;" >
+            <sly>Toolbar</sly>
+        </ul>
+    </div>
+            <sly data-sly-include="customheaderlibs.html"/>
+
+</div>
+<sly data-sly-include="/libs/wcm/core/components/init/init.jsp" data-sly-unwrap/>
+<div data-sly-resource="${'site-topnav' @ resourceType='meguia/components/structure/site-topnav'}"></div>
