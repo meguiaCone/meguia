@@ -12,15 +12,10 @@
       <change beforePath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/meguia.it.tests-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/meguia.it.tests-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/it.tests/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/it.tests/target/classes/META-INF/MANIFEST.MF" />
       <change beforePath="$PROJECT_DIR$/it.tests/target/meguia.it.tests-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/it.tests/target/meguia.it.tests-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_editConfig.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_editConfig.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/search/_cq_dialog/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/search/_cq_dialog/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/text/_cq_dialog/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/text/_cq_dialog/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/structure/contentpage/contentpage.html" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/structure/contentpage/contentpage.html" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_dialog/.content.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_editConfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/image/_cq_dialog/.content.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/image/_cq_editConfig.xml" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/image/_cq_editConfig.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/search/_cq_dialog/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/search/_cq_dialog/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/text/_cq_dialog/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/text/_cq_dialog/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/structure/contentpage/contentpage.html" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/structure/contentpage/contentpage.html" />
       <change beforePath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/ui.apps/target/meguia.ui.apps-1.0-SNAPSHOT.zip" afterPath="$PROJECT_DIR$/ui.apps/target/meguia.ui.apps-1.0-SNAPSHOT.zip" />
       <change beforePath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" afterPath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" />
@@ -43,31 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_cq_editConfig.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_editConfig.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".content.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/user-grid/.content.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".content.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_dialog/.content.xml">
+        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/.content.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,9 +73,10 @@
         <option value="$PROJECT_DIR$/core/src/main/java/meguia/core/models/Button.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/meguia/core/models/Image.java" />
         <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/text/_cq_dialog/.content.xml" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/.content.xml" />
         <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_dialog/.content.xml" />
         <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_editConfig.xml" />
-        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/.content.xml" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/.content.xml" />
       </list>
     </option>
   </component>
@@ -320,8 +296,7 @@
               <item name="meguia" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
-              <item name="_cq_dialog" type="462c0819:PsiDirectoryNode" />
+              <item name="imageC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -342,6 +317,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content" />
       <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\image" />
       <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\text" />
     </key>
@@ -454,12 +430,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518023877333</updated>
-      <workItem from="1518023880432" duration="7744000" />
+      <workItem from="1518023880432" duration="8880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7744000" />
+    <option name="totallyTimeSpent" value="8880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -632,14 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/list/_cq_editConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/text/.content.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -680,10 +648,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_dialog/.content.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="65" column="53" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_editConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/list/_cq_editConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -691,15 +675,23 @@
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/user-grid/.content.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/_cq_dialog/.content.xml">
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/_cq_editConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/.content.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
