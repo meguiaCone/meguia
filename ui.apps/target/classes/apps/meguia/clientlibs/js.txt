@@ -1,4 +1,0 @@
-#base=js
-bootstrap.bundle.js
-bootstrap.js
-jquery.js

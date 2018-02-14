@@ -70,7 +70,14 @@
                                     emptyText="Height"
                                     name="./height"/>
                             </size>
-                            <cssClass/>
+                            <roundBorder
+                            jcr:primaryType="cq:Widget"
+                            sling:resourceType="granite/ui/components/foundation/form/checkbox"
+                            fieldLabel="Css class(es)"
+                            name="./roundBorder"
+                            text="Round border True"
+                            type="checkbox"
+                            xtype="selection" />
                         </items>
                     </column>
                 </items>
