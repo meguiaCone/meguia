@@ -1,21 +1,25 @@
 <sly data-sly-test.editOrDesignMode="${wcmmode.edit || wcmmode.design}"></sly>
 <script  type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<div id="form" class="form-group">
-    <label for="txtName">Name</label><input id="txtName" type="text" class="form-control"/><br>
-    <label for="txtLastName">Last Name</label><input id="txtLastName" type="text" class="form-control"/><br>
-    <label for="txtAge">Age</label><input id="txtAge" type="text" class="form-control"/><br>
-    <label for="txtAddress">Address</label><input id="txtAddress" type="text" class="form-control"/><br>
-    <label>Gender:</label><br>
-    <label for="txtFemale">Female</label><input id="txtFemale" type="radio" name="gender"/><br>
-    <label for="txtMale">Male</label><input id="txtMale" type="radio" name="gender"/><br>
-    <label for="txtOther">Other</label><input id="txtOther" type="radio" name="gender"/><br>
-    <div id="divTelephone"><label for="txtPhone">Telephone</label><input id="txtPhone" type="text" class="form-control"/><br></div>
-</div>
-<script type="text/javascript" data-sly-test=${!editOrDesignMode}">
-        $(document).ready(function () {
-        $('form').showPhone({
-            telephone: "${properties.telephone @ context='scriptString'}"
-        })
 
-    });
-</script>
+    <div id="form" class="form-group">
+        <label for="txtName">Name</label><input id="txtName" type="text" class="form-control"/><br>
+        <label for="txtLastName">Last Name</label><input id="txtLastName" type="text" class="form-control"/><br>
+        <label for="txtAge">Age</label><input id="txtAge" type="text" class="form-control"/><br>
+        <label for="txtAddress">Address</label><input id="txtAddress" type="text" class="form-control"/><br>
+        <label>Gender:</label><br>
+        <label for="txtFemale">Female</label><input id="txtFemale" type="radio" name="gender"/><br>
+        <label for="txtMale">Male</label><input id="txtMale" type="radio" name="gender"/><br>
+        <label for="txtOther">Other</label><input id="txtOther" type="radio" name="gender"/><br>
+        <div id="divTelephone">
+            <label for="txtPhone">Telephone</label>
+            <input id="txtPhone" type="text" class="form-control"/><br>
+        </div>
+    </div>
+    <script type="text/javascript" data-sly-test=${!editOrDesignMode}">
+            $(document).ready(function () {
+                debugger;
+            $('div#form').showPhone({
+                telephone: "${properties.telephone @ context='scriptString'}"
+            })
+        });
+    </script>

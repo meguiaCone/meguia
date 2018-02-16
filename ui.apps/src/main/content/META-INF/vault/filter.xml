@@ -2,4 +2,5 @@
 <workspaceFilter version="1.0">
     <filter root="/apps/meguia"/>
     <filter root="/apps/sling" />
+
 </workspaceFilter>

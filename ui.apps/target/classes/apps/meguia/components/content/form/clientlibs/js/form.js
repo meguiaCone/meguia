@@ -1,8 +1,7 @@
 $(document).ready(function () {
-        console.log("ready");
+        console.log("form ready");
         $("#divTelephone").show();
         $.fn.showPhone = function(opts) {
-
             if (opts.telephone ) {
                 $("#divTelephone").hide();
             }

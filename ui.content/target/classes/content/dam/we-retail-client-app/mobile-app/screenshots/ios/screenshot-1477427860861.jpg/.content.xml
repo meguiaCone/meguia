@@ -43,14 +43,5 @@
             tiff:XResolution="0/1"
             tiff:YResolution="0/1"/>
         <related jcr:primaryType="nt:unstructured"/>
-        <usages
-            dam:score="{Long}1"
-            jcr:primaryType="nt:unstructured"
-            usedBy="[aem]">
-            <aem
-                jcr:primaryType="nt:unstructured"
-                count="{Long}1"
-                lastUsed="{Date}2018-01-26T13:20:41.260-03:00"/>
-        </usages>
     </jcr:content>
 </jcr:root>

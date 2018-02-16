@@ -2,9 +2,9 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>meguia - UI apps</comment>
-<entry key="createdBy">mariana</entry>
+<entry key="createdBy">Mariana</entry>
 <entry key="name">meguia.ui.apps</entry>
-<entry key="created">2018-02-14T17:25:52.612-0300</entry>
+<entry key="created">2018-02-16T17:10:46.575-0300</entry>
 <entry key="groupId">meguia</entry>
 <entry key="version">1.0-SNAPSHOT</entry>
 <entry key="requiresRoot">false</entry>

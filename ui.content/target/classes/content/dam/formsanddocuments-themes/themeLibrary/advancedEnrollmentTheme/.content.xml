@@ -2,7 +2,7 @@
 <jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:fd="http://www.adobe.com/aemfd/fd/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:mixinTypes="[mix:referenceable]"
     jcr:primaryType="dam:Asset"
-    jcr:uuid="ba3e52a2-c604-4b5f-a6c6-4b1684f4e093">
+    jcr:uuid="85b36979-1e7d-40c2-b47e-4f9ea36d1858">
     <jcr:content
         dam:relativePath="formsanddocuments-themes/themeLibrary/advancedEnrollmentTheme"
         jcr:lastModified="{Date}2016-09-23T12:20:56.552+05:30"
