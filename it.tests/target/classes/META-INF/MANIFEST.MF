@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1518639975055
-Build-Jdk: 1.8.0_144
-Built-By: mariana
+Bnd-LastModified: 1519155037442
+Build-Jdk: 1.8.0_161
+Built-By: Mariana
 Bundle-Description: Bundles for Integration Tests for meguia
 Bundle-ManifestVersion: 2
 Bundle-Name: meguia - Integration Tests Bundles

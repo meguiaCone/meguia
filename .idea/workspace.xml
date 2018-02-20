@@ -2,82 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d42f30e3-3e69-4216-be57-00583cc13eb1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/core/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/core/target/classes/META-INF/MANIFEST.MF" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/meguia/core/models/UserGrid.class" afterPath="$PROJECT_DIR$/core/target/classes/meguia/core/models/UserGrid.class" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/core/target/meguia.core-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/core/target/meguia.core-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/core/target/surefire-reports/TEST-meguia.core.models.TestHelloWorldModel.xml" afterPath="$PROJECT_DIR$/core/target/surefire-reports/TEST-meguia.core.models.TestHelloWorldModel.xml" />
       <change beforePath="$PROJECT_DIR$/core/target/surefire-reports/meguia.core.models.TestHelloWorldModel.txt" afterPath="$PROJECT_DIR$/core/target/surefire-reports/meguia.core.models.TestHelloWorldModel.txt" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/it.launcher/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/it.launcher/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/it.launcher/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/it.launcher/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/it.launcher/target/meguia.it.launcher-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/it.launcher/target/meguia.it.launcher-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/meguia.core-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/meguia.core-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/meguia.it.tests-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/meguia.it.tests-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/it.tests/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/it.tests/target/classes/META-INF/MANIFEST.MF" />
+      <change beforePath="$PROJECT_DIR$/it.tests/target/classes/meguia/it/tests/HelloWorldModelServerSideTest$AdminResolverCallable.class" afterPath="$PROJECT_DIR$/it.tests/target/classes/meguia/it/tests/HelloWorldModelServerSideTest$AdminResolverCallable.class" />
+      <change beforePath="$PROJECT_DIR$/it.tests/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/it.tests/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/it.tests/target/meguia.it.tests-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/it.tests/target/meguia.it.tests-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/.content.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/clientlib-base/.content.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/clientlib-base/css.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/clientlib-base/js.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap-grid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap-grid.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap-grid.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap-grid.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap-reboot.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap-reboot.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap-reboot.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap-reboot.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js/bootstrap.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js/bootstrap.bundle.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js/bootstrap.bundle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js/bootstrap.bundle.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js/bootstrap.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js/bootstrap.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/_cq_dialog/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/_cq_dialog/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/_cq_dialog/content/items/image/items/column/items/cssClass.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/user-grid/clientlib/css/flexigrid.pack.css" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/user-grid/clientlib/css/flexigrid.pack.css" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/.content.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/clientlib-base/.content.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/clientlib-base/css.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/clientlib-base/js.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap-grid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap-grid.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap-grid.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap-grid.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap-reboot.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap-reboot.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap-reboot.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap-reboot.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js/bootstrap.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js/bootstrap.bundle.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js/bootstrap.bundle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js/bootstrap.bundle.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js/bootstrap.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js/bootstrap.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/clientlibs/js/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/imageC/_cq_dialog/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/imageC/_cq_dialog/.content.xml" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/imageC/_cq_dialog/content/items/image/items/column/items/cssClass.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/user-grid/clientlib/css/flexigrid.pack.css" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/user-grid/clientlib/css/flexigrid.pack.css" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/form/_cq_dialog/.content.xml" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/meguia/components/content/form/_cq_dialog/.content.xml" />
       <change beforePath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/ui.apps/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/ui.apps/target/meguia.ui.apps-1.0-SNAPSHOT.zip" afterPath="$PROJECT_DIR$/ui.apps/target/meguia.ui.apps-1.0-SNAPSHOT.zip" />
       <change beforePath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" afterPath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" />
       <change beforePath="$PROJECT_DIR$/ui.content/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ui.content/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/ui.content/target/meguia.ui.content-1.0-SNAPSHOT.zip" afterPath="$PROJECT_DIR$/ui.content/target/meguia.ui.content-1.0-SNAPSHOT.zip" />
+      <change beforePath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/filter.xml" afterPath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/filter.xml" />
       <change beforePath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/properties.xml" afterPath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/properties.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/it.tests/target/" />
@@ -106,48 +56,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="form.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/form/clientlibs/js/form.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/form/form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="imageC.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/imageC.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".content.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/form/_cq_dialog/.content.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -275,6 +184,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -375,53 +286,7 @@
               <item name="meguia" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meguia" type="462c0819:PsiDirectoryNode" />
-              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="meguia" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-              <item name="_cq_dialog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meguia" type="462c0819:PsiDirectoryNode" />
-              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="meguia" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-              <item name="clientlibs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meguia" type="462c0819:PsiDirectoryNode" />
-              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="meguia" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-              <item name="clientlibs" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="imageC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
@@ -436,6 +301,7 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="imageC" type="462c0819:PsiDirectoryNode" />
+              <item name="_cq_dialog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
@@ -464,14 +330,82 @@
               <item name="structure" type="462c0819:PsiDirectoryNode" />
               <item name="contentpage" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meguia" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="meguia" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="site-topnav" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meguia" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meguia" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meguia" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meguia" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meguia" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meguia" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meguia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meguia" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="en" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -484,18 +418,18 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\imageC\clientlibs\css" />
+      <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\imageC\clientlib\css" />
+      <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\imageC\clientlib\scripts" />
+      <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\imageC" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\form\clientlibs\js" />
       <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\clientlibs" />
       <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\form\clientlibs" />
       <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content" />
       <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\form" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\imageC\clientlibs\css" />
-      <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\imageC\clientlib\css" />
-      <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\imageC\clientlib\scripts" />
-      <recent name="C:\Users\Pablo\workspace\meguia\ui.apps\src\main\content\jcr_root\apps\meguia\components\content\imageC" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -613,39 +547,44 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83350000" />
+    <option name="totallyTimeSpent" value="83564000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="91" y="91" width="1738" height="850" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6132597" sideWeight="0.50208336" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34204546" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37785387" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27092275" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="IntelliVault" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4181818" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2905478" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="IntelliVault" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41666666" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="91" y="91" width="1738" height="850" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -678,47 +617,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="94" lean-forward="true" selection-start-line="6" selection-start-column="94" selection-end-line="6" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/clientlib/scripts/imageC.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/clientlib/css/imageC.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/clientlib/scripts/imageC.js" />
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/clientlib/css/imageC.css" />
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/user-grid/clientlib/.content.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/clientlibs/js/validation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/clientlibs/js/validation.js" />
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/clientlibs/css.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="147" lean-forward="false" selection-start-line="0" selection-start-column="147" selection-end-line="0" selection-end-column="149" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,18 +648,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/list/_cq_dialog/.content.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="78" column="19" lean-forward="false" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/list/_cq_dialog/.content.xml" />
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/image/.content.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -758,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,19 +675,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/form/_cq_dialog/content/items/image/items/column/items/cssClass.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/form/_cq_dialog/content/items/image/items/column/items/cssClass.xml" />
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/user-grid/_cq_dialog/.content.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="45" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,7 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,19 +754,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/_cq_dialog/.content.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="81" column="29" lean-forward="true" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/user-grid/clientlib/css/flexigrid.pack.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -902,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -910,50 +787,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/clientlib-base/.content.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/clientlib-base/css.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/clientlib-base/js.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/.content.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/js.txt" />
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/clientlib-base/.content.xml" />
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/clientlib-base/css.txt" />
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/clientlib-base/js.txt" />
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/clientlibs/.content.xml" />
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/clientlibs/.content.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -966,7 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -974,39 +814,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/clientlibs/js/prueba.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/clientlibs/js/prueba.js" />
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/structure/contentpage/customheaderlibs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/form/clientlibs/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/form/clientlibs/js/jquery.js" />
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/clientlibs/js.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1014,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1038,15 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/imageC.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1054,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1062,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1070,6 +879,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/_cq_dialog/.content.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="81" column="29" lean-forward="true" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/meguia/components/content/imageC/imageC.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>

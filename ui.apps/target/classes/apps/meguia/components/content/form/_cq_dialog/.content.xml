@@ -19,7 +19,8 @@
                     name="./telephone"
                     text="Hide option telephone"
                     type="checkbox"
-                    xtype="selection" />
+                    xtype="selection"
+                    value="Boolean"/>
         </items>
     </content>
 </jcr:root>
