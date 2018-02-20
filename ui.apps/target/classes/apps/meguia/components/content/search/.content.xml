@@ -4,4 +4,4 @@
     jcr:primaryType="cq:Component"
     jcr:title="Search"
     sling:resourceSuperType="wcm/foundation/components/page"
-    componentGroup="Plurasight.Train"/>
+    componentGroup="Meguia induccion"/>

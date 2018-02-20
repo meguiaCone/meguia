@@ -1,0 +1,12 @@
+<sly data-sly-test.editOrDesignMode="${wcmmode.edit || wcmmode.design}"></sly>
+<script  type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<img id="imgS" src="https://images.pexels.com/photos/416731/pexels-photo-416731.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb">
+<script type="text/javascript" data-sly-test=${!editOrDesignMode}">
+    $(document).ready(function () {
+        debugger;
+        $('img#imgS').addClassImg({
+            clase: "${properties.cssClass @ context='scriptString'}"
+        })
+    });
+</script>

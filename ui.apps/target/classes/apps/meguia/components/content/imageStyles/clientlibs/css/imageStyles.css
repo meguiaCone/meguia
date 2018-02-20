@@ -1,0 +1,6 @@
+.sepia{
+    filter: sepia(100%);
+}
+.byw {
+    filter: grayscale(100%);
+}
