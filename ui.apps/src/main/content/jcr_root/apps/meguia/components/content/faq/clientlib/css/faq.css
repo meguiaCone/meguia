@@ -1,0 +1,10 @@
+.question{
+    color: #ed1c24;
+    font-weight: bold;
+    border: none;
+    width: 100%;
+    font-size: 15px;
+}
+.response{
+    color: #000000;
+}

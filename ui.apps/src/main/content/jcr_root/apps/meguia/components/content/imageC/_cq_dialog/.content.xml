@@ -75,9 +75,10 @@
                             sling:resourceType="granite/ui/components/foundation/form/checkbox"
                             fieldLabel="Css class(es)"
                             name="./roundBorder"
+                            value="Boolean"
                             text="Round border True"
                             type="checkbox"
-                            xtype="selection" />
+                            xtype="selection"/>
                         </items>
                     </column>
                 </items>
